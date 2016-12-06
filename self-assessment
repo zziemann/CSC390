@@ -1,0 +1,11 @@
+ HOMEWORK 3
+ Zach Ziemann
+ 
+ Provide a summary of what doesn't work in your solution, 
+ along with an explanation of how you attempted to solve the problem and where you feel you struggled. 
+ 
+ This assignment works for both assignment 1 and 2, since they build directly off each other it makes sense to put them together here.
+ They make a very functional calculator, with the added functions I was supposed to create and a display bar on top. 
+ It has the other various requirements mentioned also in calculatorBrain.  
+ The main changes are in the view controller and the calculator brain. 
+ It also has a nice looking UI in the storyboard.  
